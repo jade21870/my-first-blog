@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h&h6#^=r(tii6jlp0y!m4ho^&i@!ay9enx!l1yqxkm_f#7s%!g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['jade21.pythonanywhere.com', 'localhost', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['jade21.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
